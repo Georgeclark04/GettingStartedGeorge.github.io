@@ -1,0 +1,36 @@
+html {
+	font-size: 10px; /* px means "pixels": the base font size is now 10pixels high; */
+	font-family: "Montserrat", sans-serif;
+
+}
+p {
+	width: 500px;
+	border: 0.5px solid black;
+	padding: 10px 10px 10px;
+}
+h1, h2 {
+	color: #4B15FF;
+	text-decoration: underline;
+}
+h1 {
+	font-size: 30px;
+}
+html {
+	background-color: #F7FAFA;
+}
+body {
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #F5F5F5;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+img {
+	display: block;
+	margin: 0 auto;
+}
+/* hi */
+p1 {
+	width: 500px;
+	
+	padding: 10px 10px 10px;
